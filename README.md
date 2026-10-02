@@ -5,10 +5,11 @@ Solution Engineer in Ljubljana, Slovenia. I write about AI, life and technology,
 - 🎓 Studied Multimedia (Master's programme) at the Faculty of Computer and Information Science, University of Ljubljana
 - 📱 Background in mobile app development and UX design
 - 🤖 Currently exploring AI and practical automation
+- 💼 [LinkedIn](https://www.linkedin.com/in/eva-vidmar-899b56168/)
 
 **Selected projects**
 
-- [CovidVremenar](https://github.com/evavid/CovidVremenar): Android app that shows Covid Sledilnik data in a fun, friendly way
-- [SP_NewsWebsite](https://github.com/evavid/SP_NewsWebsite): news website for a local TV station (Node.js + Express, Angular)
-- [smrpo](https://github.com/evavid/smrpo): Scrumpy, a team-built tool for Scrum-based software development
-- [Hackaton---EESTEC](https://github.com/evavid/Hackaton---EESTEC): machine-learning app from the EESTEC Challenge 2022 hackathon
+- [polite-email-generator](https://github.com/evavid/polite-email-generator): AI app that turns a few details into a polite email (Flask + OpenAI, EESTEC Hackathon 2022)
+- [scrumly](https://github.com/evavid/scrumly): Scrum project management web app with sprints, tasks and time tracking (Node.js, MongoDB)
+- [covid-weather](https://github.com/evavid/covid-weather): Android app that shows Covid-19 trends as a weather forecast
+- [etv-news-website](https://github.com/evavid/etv-news-website): full-stack news website for a local TV station (Angular, Node.js)
